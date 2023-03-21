@@ -1,0 +1,160 @@
+code,name,assigned smell
+25H15,"forest, wood",forest
+47I53,"greenhouse, orangery",fruity
+47I53,"greenhouse, orangery",orange
+47K11,"whale fishery, whaling",ambergris
+47K11,"whale fishery, whaling",sulphur
+41B161,bonfire,smoke
+25F26,rodents,Castoreum
+41C62,"bread, cake, pastry, etc.",bread
+41C6411,butter,butter
+25G41(...),flowers (with NAME),carnation
+11Q71428,censer,frankincense
+41C6412,cheese,cheese
+41B214,chimney,smoke
+41C6352,chocolate (solid),cacao
+41C723,"chocolate, cocoa",cacao
+41C742,cigar,tobacco
+41C742,cigar,smoke
+41C7421,cigar-box,cedar
+41C7421,cigar-box,smoke
+41C7421,cigar-box,tobacco
+41C7422,cigar-case,tobacco
+41C7422,cigar-case,smoke
+41C7423,cigar-holder,tobacco
+41C7423,cigar-holder,smoke
+41C743,cigarette,tobacco
+41C743,cigarette,smoke
+25D451,gas extracted from coal,coal
+41C721,coffee,coffee
+25FF411,dragon,dragon's breath
+25G3(...),trees (with NAME),elm
+25F6,fishes,fish
+44E54,"litter, rubbish, garbage ~ street sweeping",sulphurous/ rotten/ fecal
+25G4(...),plants and herbs (with NAME),garlic
+25G4,plants and herbs,herb
+41C762,"incense-burner ~ scents, perfumes",frankincense
+41C762,"incense-burner ~ scents, perfumes",myrrh
+47H11,linen (material ~ textile industry),lavender
+47H11,linen (material ~ textile industry),musk
+47H11,linen (material ~ textile industry),rose
+47H11,linen (material ~ textile industry),cedar
+25F24(...),hoofed animals (with NAME),musk
+25F26(...),rodents (with NAME),musk
+25G3(...),trees (with NAME),myrrh
+25G22(...),(non-fruit) products of plants or trees (with NAME),onion
+41C622,"cake, tart, pastry",pastry
+41C741,pipe ~ tobacco,tobacco
+31A51451,"pomander, musk ball",ambergris
+31A51451,"pomander, musk ball",musk
+31A51451,"pomander, musk ball",rose
+31A51451,"pomander, musk ball",cloves
+31A51451,"pomander, musk ball",lemon
+31A51451,"pomander, musk ball",civet
+31A51451,"pomander, musk ball",cinnamon
+31A51451,"pomander, musk ball",nutmeg
+31A51451,"pomander, musk ball",schlag
+31A51451,"pomander, musk ball",rosemary
+31A51451,"pomander, musk ball",thyme
+25G41(...),flowers (with NAME),rose
+41B162,smoke,smoke
+41C7441,snuff-box,Radish
+41C713,distilled spirits,gin
+41C713,distilled spirits,jenever
+46C1521,steam locomotive,steam
+41C722,tea (leaves),tea
+41C672,vinegar,vinegar
+25G41(...),flowers (with NAME),iris
+41C681,seafood,seafood
+41B34,oil-lamp,oil
+41C69,meat; still life of meat,meat
+41C693,sausage,sausage
+41C694,ham,ham
+41C623,pancakes,pancake
+41C625,pie,pie
+47I212,pig,pig
+46C13141,horse,horse
+47I211,bovine cattle,cow
+47I21111,ox,bull
+47I214,goat,caprylic/ hircinos
+34B232,"fowl (cock, hen, chicken, etc.)",pigeon
+25H2322,sea,sea
+25G3,trees,tree
+25H17,"meadow, pasture",meadowsweet
+41C66(...),"seasonings, spices (with NAME)",cloves
+25G22(...),(non-fruit) products of plants or trees (with NAME),cinnamon
+25G3(...),trees (with NAME),oak
+25G3(...),trees (with NAME),acacia
+25G41(...),flowers (with NAME),violet
+25G41(...),flowers (with NAME),hyacinth
+41A721,chair,tar
+25G31(...),shrubs (with NAME),juniper
+25G31(...),shrubs (with NAME),juniper berry
+25G3(...),trees (with NAME),laurel
+47B1714,other handicrafts ~ leather,leather
+25G31(...),shrubs (with NAME),myrtle
+25G4(...),plants and herbs (with NAME),mint
+25G41(...),flowers (with NAME),orchid
+25H213,river,tuberose
+25D25,peat (soil type),peat
+25G4(...),plants and herbs (with NAME),peonie
+25G41(...),flowers (with NAME),daffodil
+25D143,amber (fossil resin),resin
+73B57,"adoration of the kings: the Wise Men present their gifts to the Christ-child (gold, frankincense and myrrh)",frankincense
+26C,winds,nutmeg
+26C,winds,cinnamon
+26C,winds,cloves
+26C,winds,lavender
+26C,winds,marjoram
+26C,winds,rosemary
+26C,winds,ambergris
+26C,winds,musk
+26C,winds,civet
+73B57,"adoration of the kings: the Wise Men present their gifts to the Christ-child (gold, frankincense and myrrh)",frankincense
+73B57,"adoration of the kings: the Wise Men present their gifts to the Christ-child (gold, frankincense and myrrh)",myrrh
+12A3121,the altar of burnt offering in Tabernacle ~ Jewish religion,Galbanum
+12A3121,the altar of burnt offering in Tabernacle ~ Jewish religion,Frankincence
+12A3121,the altar of burnt offering in Tabernacle ~ Jewish religion,Onycha
+97AA1,"Daphne changed into a laurel-tree: while fleeing from Apollo, Daphne is changed into a laurel-tree by her father Peneus (Ovid, Metamorphoses I 548)",Laurel
+92C4911,birth of Adonis: the tree splits open to release the baby; the Naiads take care of him,Myrrh
+73E413,Christ blessing the apostles on the Mount of Olives,Olive tree
+71C2441,"Esau, returning hungry from the hunt, sells his first birthright to Jacob for a pottage of lentils",lentils
+11U1,"comprehensive representation of Last Judgement: Christ (with sword and lily), often surrounded by elders and sometimes accompanied by Mary and John the Baptist, appears in the sky with trumpeting angels (and sometimes angels holding the instruments of the Passion); after the resurrection of the dead the blessed are led to heaven by angels, and the damned are dragged into hell by devils",Lily
+11U1,"comprehensive representation of Last Judgement: Christ (with sword and lily), often surrounded by elders and sometimes accompanied by Mary and John the Baptist, appears in the sky with trumpeting angels (and sometimes angels holding the instruments of the Passion); after the resurrection of the dead the blessed are led to heaven by angels, and the damned are dragged into hell by devils",indole
+11HH(MYRRHOPHORES),the three (sometimes four) Maries together; possible attributes: jar of ointment,Myrrh
+73D132,Christ's feet are anointed by Mary (Magdalene),Spikenard/nard-myrrh
+71E1383,the making of the Tabernacle and its accessories ~ Exodus,fragrant spices
+71E1383,the making of the Tabernacle and its accessories ~ Exodus,Galbanum
+71E1383,the making of the Tabernacle and its accessories ~ Exodus,frankincence
+71E1383,the making of the Tabernacle and its accessories ~ Exodus,gum resin (styrax)
+71I432,temple of Solomon (1 Kings 5-9; 2 Chronicles 2-7),almug
+71I432,temple of Solomon (1 Kings 5-9; 2 Chronicles 2-7),cedar
+71I432,temple of Solomon (1 Kings 5-9; 2 Chronicles 2-7),pine
+71I432,temple of Solomon (1 Kings 5-9; 2 Chronicles 2-7),sweet
+11R7,'Vanitas' symbols,Frankincense
+96A1821,Vertumnus and Pomona,plants and (fruit) trees
+96A1821,Vertumnus and Pomona,orchard
+96A1821,Vertumnus and Pomona,
+25FF241,unicorn,cinnamon
+11Q731112,incensation of the altar,frankincense
+11Q731112,incensation of the altar,cinnamon
+11Q731112,incensation of the altar,oil
+11Q731112,incensation of the altar,myrrh
+98C(CLEOPATRA)52,Cleopatra comes ashore at Tarsus on Mark Antony's summons,myrrh
+98C(CLEOPATRA)52,Cleopatra comes ashore at Tarsus on Mark Antony's summons,cardamom
+98C(CLEOPATRA)52,Cleopatra comes ashore at Tarsus on Mark Antony's summons,cinnamon
+98C(CLEOPATRA)52,Cleopatra comes ashore at Tarsus on Mark Antony's summons,musk
+71I331,the queen of Sheba comes to Solomon with a train of camels loaded with gifts,cinnamon
+71I331,the queen of Sheba comes to Solomon with a train of camels loaded with gifts,myrrh
+11HH(THERESA),"the foundress of the reformed (Discalced) Carmelites, T(h)eres(i)a of Avila; possible attributes: angel, arrow, dove, heart (flaming or pierced by an arrow)",acetone.acetoacetic acid from ketosis
+11L112,the mystic mill; 'Hostienmühle',sack of grain
+31A61,urination,Ammonia
+92L5,(story of) Pan,Animalic; Musk
+11T,hell and purgatory,Sulfur
+11T,hell and purgatory,Smoke
+11T,hell and purgatory,Excrement
+13B3,"witches' sabbath, i.e. ceremonial gathering of witches and/or sorcerers",Sulfur
+13B3,"witches' sabbath, i.e. ceremonial gathering of witches and/or sorcerers",Smoke
+13B3,"witches' sabbath, i.e. ceremonial gathering of witches and/or sorcerers",He-goat
+13B3,"witches' sabbath, i.e. ceremonial gathering of witches and/or sorcerers",Cooking
+97AA4,"Myrrha changed into a myrtle-tree: when fleeing from her father's wrath, Myrrha is changed into a myrtle-tree (Ovid, Metamorphoses X 489)",Resinous: Myrrh
