@@ -41,7 +41,7 @@ def integrate_kws(lang, iconography_df, objects_df, spaces_df):
 
 def integrate_cross_references(notations_pth, iconography_df, objects_df, spaces_df):
     # add cross references for concepts in odeuropa csvs
-    notations_processor = IconclassNotationProcessor('notations.txt')
+    notations_processor = IconclassNotationProcessor(notations_pth)
     ## objects
     for code in objects_df['ICONCLASS CODE']:
         notations_processor.add_reference(code, _OBJECTS_CODE)
