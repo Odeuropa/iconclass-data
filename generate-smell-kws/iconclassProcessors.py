@@ -68,15 +68,15 @@ class IconclassKWProcessor:
             raise Exception("Iconclass code needs to start with a digit.")
         
     def write(self):
-        with open(f'{self._out_path}/kws_{self._lang}_0_1.txt', 'w') as f:
+        with open(f'{self._out_path}/kw_{self._lang}_0_1.txt', 'w') as f:
             f.writelines(sorted(self._kws_0_1, key=lambda l: (l.split('|')[0], l.split('|')[1])))
-        with open(f'{self._out_path}/kws_{self._lang}_2_3.txt', 'w') as f:
+        with open(f'{self._out_path}/kw_{self._lang}_2_3.txt', 'w') as f:
             f.writelines(sorted(self._kws_2_3, key=lambda l: (l.split('|')[0], l.split('|')[1])))
-        with open(f'{self._out_path}/kws_{self._lang}_4.txt', 'w') as f:
+        with open(f'{self._out_path}/kw_{self._lang}_4.txt', 'w') as f:
             f.writelines(sorted(self._kws_4, key=lambda l: (l.split('|')[0], l.split('|')[1])))
-        with open(f'{self._out_path}/kws_{self._lang}_5_6_7_8.txt', 'w') as f:
+        with open(f'{self._out_path}/kw_{self._lang}_5_6_7_8.txt', 'w') as f:
             f.writelines(sorted(self._kws_5_6_7_8, key=lambda l: (l.split('|')[0], l.split('|')[1])))
-        with open(f'{self._out_path}/kws_{self._lang}_9.txt', 'w') as f:
+        with open(f'{self._out_path}/kw_{self._lang}_9.txt', 'w') as f:
             f.writelines(sorted(self._kws_9, key=lambda l: (l.split('|')[0], l.split('|')[1])))    
 
 class IconclassNotationProcessor:
